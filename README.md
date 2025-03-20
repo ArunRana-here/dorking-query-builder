@@ -14,26 +14,6 @@ Frontend: React, Tailwind CSS, Framer Motion
 Backend: Node.js, Express
 Search API: Google Custom Search API
 
-DORKING/
-│
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── .env  (API keys stored here)
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│       ├── components/
-│       │   ├── SearchBar.js
-│       │   └── SearchResults.js
-│       ├── utils/
-│       │   └── queryHelper.js
-│       ├── App.js
-│       ├── index.js
-│       └── App.css
-└── README.md
-
 ⚙️ Getting Started
 1. Clone the repo
    git clone https://github.com/your-username/your-repo-name.git
